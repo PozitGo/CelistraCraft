@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08dc31b3.css",
+    "main.js": "/static/js/main.007d5d6d.js",
+    "static/media/MainBgImage.png": "/static/media/MainBgImage.f6650b39f6d5dc3f3315.png",
+    "static/media/celistra.ico": "/static/media/celistra.b02fec70832e3da3e107.ico",
+    "static/media/Discord button.svg": "/static/media/Discord button.4a99b84b2c82685c48a1fbdc6f31c522.svg",
+    "static/media/VK button.svg": "/static/media/VK button.3809a1937b885d667c1774922bc7730e.svg",
+    "static/media/Money 5.svg": "/static/media/Money 5.ffdbaa2923bcbe36a9a6bccc272b3c27.svg",
+    "static/media/Money 4.svg": "/static/media/Money 4.71d90e6d53dd257852b63aa0963530c8.svg",
+    "static/media/Money 3.svg": "/static/media/Money 3.6b00fbd481280d9e851fba45ebf6ec50.svg",
+    "static/media/Money 1.svg": "/static/media/Money 1.b541faad246c4d83971dea4718514a96.svg",
+    "static/media/Money 2.svg": "/static/media/Money 2.87f3c6bc94f999cfabf9d9ac654eac5a.svg",
+    "static/media/Telegram button.svg": "/static/media/Telegram button.55cf4d88502c86f7f80b8ec7915cb5a4.svg",
+    "static/media/Visa.svg": "/static/media/Visa.b8b72b3a3a4d6bdbfccff0b89f0aba78.svg",
+    "static/media/squares.svg": "/static/media/squares.500d2e53df695d7cd156c69b72c1d67a.svg",
+    "static/media/MasterCard.svg": "/static/media/MasterCard.4c5fb3184040f7e75a9e9ba7fceeca48.svg",
+    "index.html": "/index.html",
+    "static/media/Arrow.svg": "/static/media/Arrow.b96cb205b58272c7d5d0.svg",
+    "main.08dc31b3.css.map": "/static/css/main.08dc31b3.css.map",
+    "main.007d5d6d.js.map": "/static/js/main.007d5d6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08dc31b3.css",
+    "static/js/main.007d5d6d.js"
+  ]
+}
